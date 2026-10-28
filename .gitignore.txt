@@ -1,0 +1,11 @@
+# Visual Studio / Backend temp files
+.vs/
+bin/
+obj/
+*.suo
+*.user
+
+# Node modules / Frontend temp files
+node_modules/
+dist/
+.env
